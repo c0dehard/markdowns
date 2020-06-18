@@ -1,10 +1,10 @@
 # AN IDEA ON [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting)
 
-<small>[markdown by c0deN](http://twitter.com/c0dehard)</small>
-
 in addition to the following [l1ackerone](https://www.hackerone.com/) YouTube Video:
 
 [Hacker101 - JavaScript for Hackers (Created by @STÖK)](https://www.youtube.com/watch?v=FTeE3OrTNoA)
+
+[Hacker0x01](https://github.com/Hacker0x01/hacker101) <- I didn't check if there's an repo already, the answer is yes. LMAO
 
 Google has a website called [Firing Range](https://public-firing-range.appspot.com/dom/) with some cool vulnerabilities you can just shoot at, to explore what happens.
 
